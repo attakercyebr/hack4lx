@@ -60,5 +60,4 @@ Here are some ideas to get you started:
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/M4nifest0">
 	<img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" />
-</p>
         
